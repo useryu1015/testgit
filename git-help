@@ -1,0 +1,6 @@
+
+1. git add	添加修改到 暂存区
+2. git commit	提交到Git仓库
+
+3. git status	查看是否有文件未提交
+4. git log
